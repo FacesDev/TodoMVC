@@ -1,8 +1,12 @@
 {
   "private": true,
   "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "mongodb": "^2.2.30"
+    "fs": "0.0.1-security",
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.11.1"
   },
   "name": "todomvc",
   "version": "1.0.0",
